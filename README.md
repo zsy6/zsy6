@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zsy6&hide=prs,issues,contribs&show_icons=true&theme=dracula&bg_color=#6495ED&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsy6)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zsy6&repo=Python-repo)](https://github.com/anuraghazra/github-readme-stats)
